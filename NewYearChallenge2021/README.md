@@ -1,4 +1,4 @@
-# New Year Challenge 2021
+# Merry Christmas New Year Challenge 2021
 
 | Time Limit | Challenges | Full Score | Passing Score |
 |:----------:|:----------:|:----------:|:-------------:|
