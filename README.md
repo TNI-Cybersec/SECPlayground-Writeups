@@ -11,10 +11,10 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 
 ## Writeups
 
-### Merry Christmas New Year Challenge 2021
+### [Merry Christmas New Year Challenge 2021](NewYearChallenge2021)
 - :trollface:
 
-### Hackloween 2021
+### [Hackloween 2021](Hackloween2021)
 - :trollface:
 
 ## Links
