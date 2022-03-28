@@ -3,7 +3,7 @@
 <p align="center">
 </br>	
 
-# SECPlayground-Writeups
+# SEC Playground Challenges Compilation Writeups
 SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI-Cybersec/)
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
 |CTF Write-up|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
