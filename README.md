@@ -22,5 +22,5 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 - [BlackBox](https://medium.com/@PlyNatwara/blackbox-writeups-hackloween-2021-7d3dc63270d7)
 
 ## Links
-- [SEC Playground Website](www.secplayground.com)
+- [SEC Playground Website](https://www.secplayground.com/)
 - [SEC Playground Facebook](https://www.facebook.com/secplayground/)
