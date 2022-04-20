@@ -11,7 +11,7 @@
 ## Problems
 ### Cryptography
 - [Wierd Encoding](#wierd-encoding)
-### Forensics
+### Forensic
 - [Find_me_if_you_can](#find_me_if_you_can)
 - [Secret Scenario Part 1](#secret-scenario-part-1)
 - [Secret Scenario Part 2](#secret-scenario-part-2)
