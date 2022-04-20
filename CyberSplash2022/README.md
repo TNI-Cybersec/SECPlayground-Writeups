@@ -10,11 +10,11 @@
 
 ## Problems
 ### Forensic
-- [mylink]()
-- [trustme]()
-- [prefetch]()
-- [history]()
+- [mylink](mylink)
+- [trustme](trustme)
+- [prefetch](prefetch)
+- [history](history)
 ### Web
-- [Behind the scene]()
-- [merge_slashes]()
-- [New vulnerability]()
+- [Behind the scene](Web)
+- [merge_slashes](Web)
+- [New vulnerability](Web)
