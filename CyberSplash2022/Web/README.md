@@ -34,7 +34,7 @@ merge_slashes is the key
 We got hit with a new vulnerability. Please identify the vulnerability
 ### Information
 #### Target IP Address
-> `34.143.169.249`
+> `x.x.x.x`
 #### Allowed Ports
 > `8080`
 ### Hint
