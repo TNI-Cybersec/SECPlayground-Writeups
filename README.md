@@ -1,10 +1,10 @@
 <img align="right" src="https://imgur.com/SN6ZqUt.png" width="450" />
 
-# SEC Playground Challenges Compilation Writeups
+# SECPlayground Challenges Compilation Writeups
 SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI-Cybersec/)
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
 |CTF Write-up|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
-|----|----|
+|:----------:|:----------:|
 
 ## Writeups
 
@@ -22,5 +22,5 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 - [BlackBox](https://medium.com/@PlyNatwara/blackbox-writeups-hackloween-2021-7d3dc63270d7)
 
 ## Links
-- [SEC Playground Website](https://www.secplayground.com/)
-- [SEC Playground Facebook](https://www.facebook.com/secplayground/)
+- [SECPlayground Website](https://www.secplayground.com/)
+- [SECPlayground Facebook](https://www.facebook.com/secplayground/)
