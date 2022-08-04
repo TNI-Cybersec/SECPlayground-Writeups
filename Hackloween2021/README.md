@@ -1,14 +1,15 @@
 # Hackloween 2021
 
 | Time Limit | Challenges | Full Score | Passing Score |
-|:----------:|:----------:|:----------:|:-------------:|
-| ?        | ?         | ?        | ?           |
+| :--------: | :--------: | :--------: | :-----------: |
+|     ?      |     ?      |     ?      |       ?       |
 
-|   🥉Bronze  |   🥈Silver  |    🥇Gold   |
-|:----------:|:----------:|:----------:|
+| 🥉Bronze | 🥈Silver |  🥇Gold  |
+| :------: | :------: | :------: |
 | ? points | ? points | ? points |
 
 ## Writeups
+
 - [Imposter](https://medium.com/@PlyNatwara/imposter-writeups-hackloween-2021-1a1efe9fc287)
 - [Suspicious IP](https://medium.com/@PlyNatwara/suspicious-ip-writeups-hackloween-2021-7558050d19ab)
 - [Ghost Story](https://medium.com/@PlyNatwara/ghost-story-writeups-hackloween-2021-cd62d270c67c)
