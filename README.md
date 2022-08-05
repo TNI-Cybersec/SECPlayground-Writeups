@@ -7,7 +7,7 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
 
 | CTF Write-up | [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) |
-| :----------: | :-----------------------------------------------------------------------------------------: |
+|----|----|
 
 ## Writeups
 
