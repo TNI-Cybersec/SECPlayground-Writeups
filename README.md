@@ -11,6 +11,10 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 
 ## Writeups
 
+### [Half Year Event 2022](HalfYearEvent2022)
+
+- WIP :trollface:
+
 ### [CyberSplash 2022](CyberSplash2022)
 
 - WIP :trollface:
