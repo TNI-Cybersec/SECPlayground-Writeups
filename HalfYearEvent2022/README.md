@@ -10,14 +10,14 @@
 
 ## Problems
 
-### File
+### [File](File)
 
-- [Doge Trader](File)
-- [decrypt-it-yourself](File)
-- [readme](File)
-- [Strange Letter](File)
+- [Doge Trader](File/Doge-Tader)
+- [decrypt-it-yourself](File/decrypt-it-yourself)
+- [readme](File/readme)
+- [Strange Letter](File/Strange-Letter)
 
-### VM
+### [VM](VM)
 
 - [Upload Manager](VM)
 - [New CVE](VM)
