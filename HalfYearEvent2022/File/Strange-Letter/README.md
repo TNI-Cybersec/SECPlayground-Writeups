@@ -11,7 +11,7 @@ We cannot contact our spy. However, we found that someone had sent a strange let
 ### Information
 
 Download the file below and complete per instruction.  
-[Online](https://storage.googleapis.com/secplayground-event/halfyear2022/Type%20Approve%20Certification.eml)
+[Online](https://storage.googleapis.com/secplayground-event/halfyear2022/Type%20Approve%20Certification.eml) | [Archive](Type%20Approve%20Certification.eml)
 
 ### Hint
 
