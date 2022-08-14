@@ -11,7 +11,7 @@ The cyber terrorist embeds the hidden message inside the file. Please look in th
 ### Information
 
 Download the file below and complete per instruction.  
-[Online](https://storage.googleapis.com/secplayground-event/halfyear2022/h02_readme.7z)
+[Online](https://storage.googleapis.com/secplayground-event/halfyear2022/h02_readme.7z) | [Archive](h02_readme.7z)
 
 ### Hint
 
