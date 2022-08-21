@@ -7,6 +7,10 @@
 
 ## Upload Manager
 
+| Type | Difficulty | Score |
+|:----:|:----------:|:-----:|
+|  VM  |    Hard    |   50  |
+
 ### Instruction
 
 We tried to build a secure upload manager web application. We have a secure function to check the uploaded file extension. You cannot upload the suspicious file to our system. However, it is still in progress and developing.
@@ -28,6 +32,10 @@ We tried to build a secure upload manager web application. We have a secure func
 ---
 
 ## New CVE
+
+| Type | Difficulty | Score |
+|:----:|:----------:|:-----:|
+|  VM  |    Hard    |   50  |
 
 ### Instruction
 
