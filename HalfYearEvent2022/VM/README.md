@@ -27,7 +27,10 @@ We tried to build a secure upload manager web application. We have a secure func
 
 ### Hint
 
+<details>
+<summary>show</summary>
 2nd order SQL injection
+</details>
 
 ---
 
@@ -55,4 +58,7 @@ Answer format: web{….}
 
 ### Hint
 
+<details>
+<summary>show</summary>
 CVE-2022-34265
+</details>
