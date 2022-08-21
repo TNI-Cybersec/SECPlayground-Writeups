@@ -19,4 +19,8 @@ Download the file below and complete per instruction.
 
 ### Hint
 
+<details>
+<summary>show</summary>
 Take a look at the number of letters of each word.
+</details>
+
