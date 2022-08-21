@@ -19,4 +19,7 @@ Download the file below and complete per instruction.
 
 ### Hint
 
+<details>
+<summary>show</summary>
 CBC
+</details>
