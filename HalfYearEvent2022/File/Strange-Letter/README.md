@@ -1,5 +1,9 @@
 # Strange Letter
 
+| Type | Difficulty | Score |
+|:----:|:----------:|:-----:|
+| File |   Medium   |   30  |
+
 ### Instruction
 
 We cannot contact our spy. However, we found that someone had sent a strange letter to him. Please help us to find the secret message.
