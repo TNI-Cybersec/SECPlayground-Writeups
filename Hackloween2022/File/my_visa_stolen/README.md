@@ -4,13 +4,20 @@
 | :--: | :--------: | :---: |
 | File |    Easy    |  10   |
 
-Instruction
+## Instruction
 
-Something weird about Billy Herrinton's mobile banking app transaction was discovered. Someone other than Billy himself used his credit card. However, Billy needs your help to discover how Billy's credit card was stolen. (Format: forensic{This is a flag})
+Something weird about Billy Herrinton's mobile banking app transaction was discovered. Someone other than Billy himself used his credit card. However, Billy needs your help to discover how Billy's credit card was stolen. (Format: `forensic{This is a flag}`)
 
-Information
+## Information
+
 Download the file below and complete per instruction.
-https://storage.googleapis.com/secplayground-event/hackloween2022/forensic_my_visa_stolen.pcap
+[Online](https://storage.googleapis.com/secplayground-event/hackloween2022/forensic_my_visa_stolen.pcap)
 
-Hint
-https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf
+## Hint
+
+<details>
+<summary>show</summary>
+
+[https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf)
+
+</details>

@@ -4,14 +4,19 @@
 | :--: | :--------: | :---: |
 | File |    Easy    |  10   |
 
-Instruction
+## Instruction
 
 Huntsman, a member of the Cyber Crime Investigation team, discovered the unusual barcode while investigating. He suspects that this is a secret message transmitted amongst cybercrime gangs. To solve this, you must build the enigma.
-Password: helloween
+Password: `helloween`
 
-Information
+## Information
+
 Download the file below and complete per instruction.
-https://storage.googleapis.com/secplayground-event/hackloween2022/e01_enigma.zip
+[Online](https://storage.googleapis.com/secplayground-event/hackloween2022/e01_enigma.zip) | [Archive](e01_enigma.zip)
 
-Hint
+## Hint
+
+<details>
+<summary>show</summary>
 Concat, StegHide and Sort Order
+</details>

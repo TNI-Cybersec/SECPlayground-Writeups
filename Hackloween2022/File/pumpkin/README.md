@@ -4,20 +4,29 @@
 | :--: | :--------: | :---: |
 | File |    Easy    |  10   |
 
-Instruction
+## Instruction
 
 The pumpkin is the flag.
 
-password: infected
+> password: `infected`
 
-Format: forensic{[[FLAG]]}
+> Format: `forensic{[[FLAG]]}`
 
-Information
+## Information
+
 Download the file below and complete per instruction.
-https://storage.googleapis.com/secplayground-event/hackloween2022/hackloween.java.zip
+[Online](https://storage.googleapis.com/secplayground-event/hackloween2022/hackloween.java.zip) | [Archive](hackloween.java.zip)
 
-Hint
+## Hint
+
+<details>
+<summary>show</summary>
 my pumpkin hide in the program
+</details>
 
-Flag
+## Flag
+
+<details>
+<summary>show</summary>
 forensic{TRY_HACKLOWEEN}
+</details>
