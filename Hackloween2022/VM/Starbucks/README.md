@@ -1,5 +1,9 @@
 # Starbucks
 
+| Type | Difficulty | Score |
+| :--: | :--------: | :---: |
+|  VM  |    Hard    |  50   |
+
 ## Instruction
 
 You're having coffee at the new Starbucks across from Chinatown one morning. And a complete stranger approaches you and inquires as to the title of the tune on the TikTok app. Format: hackloween{….}

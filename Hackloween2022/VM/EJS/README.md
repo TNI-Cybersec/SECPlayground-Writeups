@@ -1,5 +1,9 @@
 # EJS
 
+| Type | Difficulty | Score |
+| :--: | :--------: | :---: |
+|  VM  |   Medium   |  30   |
+
 ## Instruction
 
 Brand new blog :D we use EJS 3.1.6 to develop this website.

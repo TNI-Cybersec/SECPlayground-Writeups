@@ -1,5 +1,9 @@
 # servlet
 
+| Type | Difficulty | Score |
+| :--: | :--------: | :---: |
+|  VM  |    Easy    |  10   |
+
 # Instruction
 
 We have a Java reverse proxy in front of PHP web server, your job is access to localhost website with admin privilege.
