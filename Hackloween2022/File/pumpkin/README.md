@@ -28,5 +28,7 @@ my pumpkin hide in the program
 
 <details>
 <summary>show</summary>
-forensic{TRY_HACKLOWEEN}
+
+`forensic{TRY_HACKLOWEEN}`
+
 </details>
