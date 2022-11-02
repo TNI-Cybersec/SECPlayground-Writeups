@@ -15,6 +15,7 @@ Find the flag in .rar file
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/99.encrypted.zip) | [Archive](99.encrypted.zip)
 
 ## Hint
@@ -28,7 +29,5 @@ Unrar file until file picture that have flag
 
 <details>
 <summary>show</summary>
-
-`forensics{JACK_O_LATTERN}`
-
+forensics{JACK_O_LATTERN}
 </details>

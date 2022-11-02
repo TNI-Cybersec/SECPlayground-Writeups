@@ -13,6 +13,7 @@ Huntsman, a human resources staffer, is unable to access computer data. He belie
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/decrypt_it_yourself_disk.E01.zip)
 
 ## Hint

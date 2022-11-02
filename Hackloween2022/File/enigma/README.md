@@ -13,6 +13,7 @@ Huntsman, a member of the Cyber Crime Investigation team, discovered the unusual
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/e01_enigma.zip) | [Archive](e01_enigma.zip)
 
 ## Hint

@@ -13,6 +13,7 @@ We got some evidence that the user communicates with the threat actor. So, we ne
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-forensic/memory%20forensic%20lab/event/memory_analysis_history.zip)
 
 ## Hint

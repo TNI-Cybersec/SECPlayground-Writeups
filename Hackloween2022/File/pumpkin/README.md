@@ -15,6 +15,7 @@ The pumpkin is the flag.
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/hackloween.java.zip) | [Archive](hackloween.java.zip)
 
 ## Hint
@@ -28,7 +29,5 @@ my pumpkin hide in the program
 
 <details>
 <summary>show</summary>
-
-`forensic{TRY_HACKLOWEEN}`
-
+forensic{TRY_HACKLOWEEN}
 </details>

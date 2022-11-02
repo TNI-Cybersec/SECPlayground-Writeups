@@ -11,6 +11,7 @@ Van Darkholme informed the Security Team that someone had connected to his compu
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/Hackloween_Hard_Deep_Dark_Fantasy.zip)
 
 ## Hint

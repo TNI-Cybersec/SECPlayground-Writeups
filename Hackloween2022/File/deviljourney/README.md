@@ -14,6 +14,7 @@ Format flag: `forensic{[[ALL_OF_ATTACKER_MACHINE_NAME_CONCAT_SORT_BY_TIME]]}`
 ## Information
 
 Download the file below and complete per instruction.
+
 [Online](https://storage.googleapis.com/secplayground-event/hackloween2022/Hackloween2022_deviljourney.zip) | [Archive](Hackloween2022_deviljourney.zip)
 
 ## Hint
