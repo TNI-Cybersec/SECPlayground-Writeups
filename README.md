@@ -11,6 +11,10 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 
 ## Writeups
 
+### [Hackloween 2022](Hackloween2022)
+
+- WIP :trollface:
+  
 ### [Half Year Event 2022](HalfYearEvent2022)
 
 - WIP :trollface:
