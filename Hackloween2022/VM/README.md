@@ -1,5 +1,5 @@
 # VM
 
-- [servlet (⭐)](servlet)
-- [EJS (⭐⭐)](EJS)
-- [Starbucks (⭐⭐⭐)](Starbucks)
+- [servlet `⭐`](servlet)
+- [EJS `⭐⭐`](EJS)
+- [Starbucks `⭐⭐⭐`](Starbucks)
