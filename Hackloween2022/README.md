@@ -12,19 +12,19 @@
 
 ### File
 
-- [my_visa_stolen](File/my_visa_stolen)
-- [pumpkin](File/pumpkin)
-- [deviljourney](File/deviljourney)
-- [enigma](File/enigma)
-- [J U N K Y A R D Z](File/J-U-N-K-Y-A-R-D-Z)
-- [99.encrypted](File/99.encrypted)
-- [decrypt_it_yourself](File/decrypt_it_yourself)
-- [memory_analysis_history](File/memory_analysis_history)
-- [Deep_Dark_Fantasy](File/Deep_Dark_Fantasy)
-- [A-devil-of-a-job](File/A-devil-of-a-job)
+- [my_visa_stolen (⭐)](File/my_visa_stolen)
+- [pumpkin (⭐)](File/pumpkin)
+- [deviljourney (⭐)](File/deviljourney)
+- [enigma (⭐)](File/enigma)
+- [J U N K Y A R D Z (⭐)](File/J-U-N-K-Y-A-R-D-Z)
+- [99.encrypted (⭐⭐)](File/99.encrypted)
+- [decrypt_it_yourself (⭐⭐⭐)](File/decrypt_it_yourself)
+- [memory_analysis_history (⭐⭐⭐)](File/memory_analysis_history)
+- [Deep_Dark_Fantasy (⭐⭐⭐)](File/Deep_Dark_Fantasy)
+- [A-devil-of-a-job (⭐⭐⭐)](File/A-devil-of-a-job)
 
 ### VM
 
-- [servlet](VM/servlet)
-- [EJS](VM/EJS)
-- [Starbucks](VM/Starbucks)
+- [servlet (⭐)](VM/servlet)
+- [EJS (⭐⭐)](VM/EJS)
+- [Starbucks (⭐⭐)](VM/Starbucks)
