@@ -10,7 +10,7 @@
 
 ## Problems
 
-### File
+### [File](File)
 
 - [my_visa_stolen (⭐)](File/my_visa_stolen)
 - [pumpkin (⭐)](File/pumpkin)
@@ -23,8 +23,8 @@
 - [Deep_Dark_Fantasy (⭐⭐⭐)](File/Deep_Dark_Fantasy)
 - [A-devil-of-a-job (⭐⭐⭐)](File/A-devil-of-a-job)
 
-### VM
+### [VM](VM)
 
 - [servlet (⭐)](VM/servlet)
 - [EJS (⭐⭐)](VM/EJS)
-- [Starbucks (⭐⭐)](VM/Starbucks)
+- [Starbucks (⭐⭐⭐)](VM/Starbucks)
