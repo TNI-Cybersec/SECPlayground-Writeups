@@ -8,7 +8,7 @@
 
 Brand new blog :D we use EJS 3.1.6 to develop this website.
 
-The flag is inside /tmp/flag.txt
+The flag is inside `/tmp/flag.txt`
 
 ## Information
 
