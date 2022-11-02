@@ -12,12 +12,12 @@
 
 ### [File](File)
 
-- [Doge Trader (⭐⭐⭐)](File/Doge-Trader)
-- [decrypt-it-yourself (⭐⭐⭐)](File/decrypt-it-yourself)
-- [readme (⭐⭐⭐)](File/readme)
-- [Strange Letter (⭐)](File/Strange-Letter)
+- [Doge Trader `⭐⭐⭐`](File/Doge-Trader)
+- [decrypt-it-yourself `⭐⭐⭐`](File/decrypt-it-yourself)
+- [readme `⭐⭐⭐`](File/readme)
+- [Strange Letter `⭐`](File/Strange-Letter)
 
 ### [VM](VM)
 
-- [Upload Manager (⭐⭐⭐)](VM)
-- [New CVE (⭐⭐⭐)](VM)
+- [Upload Manager `⭐⭐⭐`](VM)
+- [New CVE `⭐⭐⭐`](VM)
