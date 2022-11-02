@@ -7,7 +7,8 @@
 ## Instruction
 
 Huntsman, a member of the Cyber Crime Investigation team, discovered the unusual barcode while investigating. He suspects that this is a secret message transmitted amongst cybercrime gangs. To solve this, you must build the enigma.
-Password: `helloween`
+
+> Password: `helloween`
 
 ## Information
 

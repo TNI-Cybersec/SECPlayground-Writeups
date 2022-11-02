@@ -7,7 +7,8 @@
 ## Instruction
 
 Huntsman, a human resources staffer, is unable to access computer data. He believes the data on the computer is encrypted while he is installing apps. This is the second time that his computer's data was encrypted. As a member of the Digital Forensics team, you must help him to decrypt and access a secret file.
-Password: infected
+
+> Password: `infected`
 
 ## Information
 
