@@ -14,7 +14,7 @@ We have a Java reverse proxy in front of PHP web server, your job is access to l
 
 ### Target IP Address
 
-> `34.87.92.226`
+> `x.x.x.x`
 
 ### Allowed Ports
 

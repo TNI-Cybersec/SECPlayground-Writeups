@@ -14,7 +14,7 @@ You're having coffee at the new Starbucks across from Chinatown one morning. And
 
 ### Target IP Address
 
-> `34.87.70.66`
+> `x.x.x.x`
 
 ### Allowed Ports
 

@@ -14,7 +14,7 @@ The flag is inside `/tmp/flag.txt`
 
 ### Target IP Address
 
-> `34.87.76.254`
+> `x.x.x.x`
 
 ### Allowed Ports
 
