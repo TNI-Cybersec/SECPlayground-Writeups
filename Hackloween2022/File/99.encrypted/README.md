@@ -29,5 +29,5 @@ Unrar file until file picture that have flag
 
 <details>
 <summary>show</summary>
-forensics{JACK_O_LATTERN}
+<code>forensics{JACK_O_LATTERN}</code>
 </details>

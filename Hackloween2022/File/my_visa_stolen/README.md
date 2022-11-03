@@ -18,7 +18,5 @@ Download the file below and complete per instruction.
 
 <details>
 <summary>show</summary>
-
-[https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf)
-
+<a href="https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf">https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf</a>
 </details>
