@@ -7,14 +7,18 @@ SECPlayground CTF writeups compilation by [@TNI-Cybersec](https://github.com/TNI
 ## By [TNI Cybersec](https://tni-cybersec.github.io)
 
 | CTF Write-up | [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE) |
-|----|----|
+| ------------ | ------------------------------------------------------------------------------------------- |
 
 ## Writeups
+
+### [Merry Christmas 2022](MerryChristmas2022)
+
+- WIP :trollface:
 
 ### [Hackloween 2022](Hackloween2022)
 
 - WIP :trollface:
-  
+
 ### [Half Year Event 2022](HalfYearEvent2022)
 
 - WIP :trollface:
