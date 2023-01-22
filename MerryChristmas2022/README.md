@@ -12,26 +12,26 @@
 
 ### [File](File)
 
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
+- [Angry Santa `⭐`](File/Angry-Santa)
+- [Christmas Easy `⭐`](File/Christmas-Easy)
+- [Elf Note `⭐`](File/Elf-Note)
+- [Bad Note `⭐`](File/Bad-Note)
+- [Santa Box `⭐`](File/Santa-Box)
+- [Hunting Santa Claus `⭐`](File/Hunting-Santa-Claus)
+- [SANTATO is real `⭐⭐`](File/santatoisreal)
+- [Santa Lock `⭐⭐`](File/Santa-Lock)
+- [Christmas Gift `⭐⭐`](File/Christmas-Gift)
+- [PowerBad `⭐⭐`](File/powerbad)
+- [Dr. Snowman `⭐⭐⭐`](File/drsnowman)
+- [Van's Pants `⭐⭐⭐`](File/Vans-Pants)
 
 ### [VM](VM)
 
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
-- WIP :trollface:
+- [System Administrator `⭐`](VM/System-Administrator)
+- [New Website `⭐`](VM/New-Website)
+- [Elf Noti `⭐`](VM/Elf-Noti)
+- [Christmas Wish `⭐⭐`](VM/Christmas-Wish)
+- [Backend Santa `⭐⭐`](VM/Backend-Santa)
+- [Resumes `⭐⭐`](VM/Resumes)
+- [Game of Thrones `⭐⭐⭐`](VM/Game-of-Thrones)
+- [Christmas Tree `⭐⭐⭐`](VM/Christmas-Tree)
