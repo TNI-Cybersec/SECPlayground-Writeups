@@ -14,7 +14,6 @@
 
 - [Angry Santa `⭐`](File/Angry-Santa)
 - [Christmas Easy `⭐`](File/Christmas-Easy)
-- [Elf Note `⭐`](File/Elf-Note)
 - [Bad Note `⭐`](File/Bad-Note)
 - [Santa Box `⭐`](File/Santa-Box)
 - [Hunting Santa Claus `⭐`](File/Hunting-Santa-Claus)
@@ -24,6 +23,7 @@
 - [PowerBad `⭐⭐`](File/powerbad)
 - [Dr. Snowman `⭐⭐⭐`](File/drsnowman)
 - [Van's Pants `⭐⭐⭐`](File/Vans-Pants)
+- [SantaBoyz `⭐⭐⭐`](File/SantaBoyz)
 
 ### [VM](VM)
 
