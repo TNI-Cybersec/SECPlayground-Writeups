@@ -2,7 +2,6 @@
 
 - [Angry Santa `⭐`](Angry-Santa)
 - [Christmas Easy `⭐`](Christmas-Easy)
-- [Elf Note `⭐`](Elf-Note)
 - [Bad Note `⭐`](Bad-Note)
 - [Santa Box `⭐`](Santa-Box)
 - [Hunting Santa Claus `⭐`](Hunting-Santa-Claus)
@@ -12,3 +11,4 @@
 - [PowerBad `⭐⭐`](powerbad)
 - [Dr. Snowman `⭐⭐⭐`](drsnowman)
 - [Van's Pants `⭐⭐⭐`](Vans-Pants)
+- [SantaBoyz `⭐⭐⭐`](SantaBoyz)
