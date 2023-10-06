@@ -1,4 +1,4 @@
-<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450" />
+<img align="right" src="https://imgur.com/ozPvwmg.png" width="450" />
 
 # SECPlayground Challenges Compilation Writeups
 
